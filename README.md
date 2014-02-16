@@ -32,6 +32,8 @@ Similar in concept with the Ext Grid only its pure jQuery love, which makes it l
 * Quick Search
 
 ## License
+Copyright (c) 2014 Kumararaja P. Selvam (https://github.com/sucom/Flexigrid-Plus)
+Licensed under the MIT.
 
 Copyright (c) 2008 Paulo P. Marinas (https://github.com/paulopmx/Flexigrid)
 Dual licensed under the MIT or GPL Version 2 licenses.
